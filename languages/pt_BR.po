@@ -4952,19 +4952,19 @@ msgstr ""
 #, fuzzy
 #| msgid "Update Required"
 msgid "Name (required)"
-msgstr "Atualização necessária"
+msgstr "Nome (obrigatório)"
 
 #: inc/helpers.php:3173
 #, fuzzy
 #| msgid "Enter your full icon class"
 msgid "Enter your email"
-msgstr "Digite sua classe de ícone completo"
+msgstr "Digite seu e-mail"
 
 #: inc/helpers.php:3173
 #, fuzzy
 #| msgid "Update Required"
 msgid "Email (required)"
-msgstr "Atualização necessária"
+msgstr "E-mail (obrigatório)"
 
 #: inc/helpers.php:3175
 #, fuzzy
